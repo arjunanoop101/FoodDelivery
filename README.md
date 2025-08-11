@@ -5,7 +5,7 @@ A full-stack **MERN** (MongoDB, Express, ReactJS, Node.js) application for order
 ---
 
 ## 🚀 Live Demo  
-[Click here to view the live website]([YOUR_LIVE_LINK_HERE](https://fooddelivery-frontend-36hh.onrender.com/))  
+[Click here to view the live website]([[YOUR_LIVE_LINK_HERE](https://fooddelivery-frontend-36hh.onrender.com/)])  
 
 ---
 
